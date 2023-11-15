@@ -1,5 +1,4 @@
-#include "main.h"
-
+#include"main.h"
 /**
 * _getline - Read data By User From keyboard(0)
 * Return: pointer to char
